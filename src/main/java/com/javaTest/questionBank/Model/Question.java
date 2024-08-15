@@ -1,4 +1,4 @@
-package com.javaTest.questionBank;
+package com.javaTest.questionBank.Model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
